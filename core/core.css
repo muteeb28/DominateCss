@@ -1,0 +1,50 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+    
+}
+html,body{
+    width: 100%;
+    height: 100%;
+}
+/*
+* there are two types of fonts serif and san serif the difference is that 
+serif has sharp edges and san serif has same width
+lets go to google fonts if you go to filter than check decorative stroke
+ click serif it wil show you only serif fonts the one with sharp edges 
+ */
+
+
+ h1{
+    font-family: 'Playfair Display', serif;
+    text-transform: capitalize ;
+   
+ }
+ h2{
+    font-family: 'Playfair Display', serif;
+    text-transform: uppercase ;
+ }
+ h3{
+    font-family: 'Playfair Display', serif;
+    text-decoration: line-through;
+ }
+ h4{
+    font-family: 'Playfair Display', serif;
+    text-transform: capitalize;
+    text-decoration: underline;
+ }
+ h5{
+    font-family: 'Playfair Display', serif;
+    text-decoration: overline;
+    font-size: 2vw;
+ }
+ h6{
+    line-height: 1.6;
+ }
+
+ p{
+    text-align: center;
+    /* text-align: justify;
+    text-align: right; */
+ }
