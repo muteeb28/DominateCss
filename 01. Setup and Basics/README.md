@@ -1,4 +1,4 @@
-# CSS Quick Revision Notes
+# Setup and Basics
 
 ## 1. CSS Boilerplate (Universal Reset)
 ### **Purpose**
