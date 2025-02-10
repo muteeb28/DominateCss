@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html,body{
+    width: 100%;
+    height: 100%;
+}
+/* Percentages
+The percentage unit is often used with width/height,
+ as a way to consume a portion of the available space. */
+.box{
+    border: 1px solid brown;
+    width: 450px;
+    height: 350px;
+    margin: 40px;
+    
+}
+#child{
+    border: 1px solid black;
+    width: 50%;
+    height: 50%;
+}
+/* In this example, we've created a box with a fixed size (250px by 250px), and then added a child with a relative size.
+ When the size of the .box element changes, the child will scale accordingly. */

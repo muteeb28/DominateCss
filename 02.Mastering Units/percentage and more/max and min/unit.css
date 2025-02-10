@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html,body{
+    height: 100%;
+    width: 100%;
+}
+#test{
+    min-width: 200px;
+    width: 600px;
+   max-width: 500px ;
+    height: 200px;
+background-color: red;
+}
+
+/* max width will basically add a hook so that if you change value of width to 1000px it
+wont go beyond 500 */
+
+
+
+
