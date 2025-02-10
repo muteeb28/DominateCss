@@ -1,4 +1,4 @@
-# Setup and Basics
+# 01. Setup and Basics
 
 ## 1. CSS Boilerplate (Universal Reset)
 ### **Purpose**

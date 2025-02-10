@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html,body{
+    width: 100%;
+    height: 100%;
+    background-color: blanchedalmond;
+   
+}
+/* example for changing padding with respect to font size */
+.box{
+    border: 1px solid;
+    width: 300px;
+    font-size: 16px;
+    margin-top: 2em;
+    padding: 8px;
+    padding-bottom: 2em;
+}
+/* Here's another example: try changing the font size to see how that
+ affects the child spans: */
+.style{
+    font-size: 24px;
+}
+/* The two examples shown are the only two practical examples I could come up
+ with.In most situations, rem works better. */

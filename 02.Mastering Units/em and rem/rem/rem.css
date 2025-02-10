@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+box-sizing: border-box;
+}
+html,body{
+    width: 100%;
+    height: 100%;
+    background-color: bisque;
+}
+
+
+/* The rem unit is quite a lot like the em unit, with one crucial difference: 
+it's always relative to the root element, the <html> tag. 
+All of the rems across your app will be taking their cues from that root HTML tag. By default, the HTML tag has a font size of 16px, 
+so 1rem will be equal to 16px.
+*/
+
+h1{
+    font-size: 2rem;
+    margin-top: 0.8rem;
+}
+h2{
+    font-size: 1.25rem;
+    margin-bottom: 1.5rem;
+}
+p{
+    font-size: 1rem;
+}
