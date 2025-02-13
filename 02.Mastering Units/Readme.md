@@ -1,6 +1,4 @@
 # 02. Mastering Units
-# CSS Units: Understanding `em`, `rem`, `vh`, and `vw`
-
 ## The Bottom Line
 A common question developers ask is, "Which unit should I use when?" Here's a simple guide:
 

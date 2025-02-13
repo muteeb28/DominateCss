@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html,body{
+    width: 100%;
+    height: 100%;
+    font-size: 16px;
+}
+/* font weight */
+.font_weight{
+    font-weight:bold;
+    font-weight: 100;
+}
+/* text transform */
+.transform{
+ text-transform: capitalize;
+ 
+}
+/* font- weight */
+#less{
+    font-weight: 700;
+    text-transform: uppercase;
+}
+/* text decoration */
+#line{
+    text-decoration: underline;
+}
+.deco{
+    text-decoration: line-through;
+}
+/*  font size */
+.vh{
+    font-size: 2vw;
+}
+.rem{
+    font-size: 0.8rem;
+}
+.em{
+    font-size: 0.8em;
+}
+/* line height */
+#line-height{
+    line-height: 1.1;
+}
+.justify{
+    text-align: center;
+}
