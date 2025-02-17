@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html,body{
+width: 100%;
+height: 100%;
+}
+.box{
+    padding: 30px 10px 20px 30px;
+    width: 40vw;
+    height: 30vh;
+    background-color: rgb(131, 125, 125);
+    margin: 10%;
+}
+#box{
+    border: 5px solid black;
+    width: 250px;
+    height: 300px;
+    margin: 30px;
+    border-radius: 50%;
+}
